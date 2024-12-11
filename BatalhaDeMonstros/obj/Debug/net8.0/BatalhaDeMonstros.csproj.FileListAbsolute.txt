@@ -1,0 +1,14 @@
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\bin\Debug\net8.0\BatalhaDeMonstros.exe
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\bin\Debug\net8.0\BatalhaDeMonstros.deps.json
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\bin\Debug\net8.0\BatalhaDeMonstros.runtimeconfig.json
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\bin\Debug\net8.0\BatalhaDeMonstros.dll
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\bin\Debug\net8.0\BatalhaDeMonstros.pdb
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\BatalhaDeMonstros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\BatalhaDeMonstros.AssemblyInfoInputs.cache
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\BatalhaDeMonstros.AssemblyInfo.cs
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\BatalhaDeMonstros.csproj.CoreCompileInputs.cache
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\BatalhaDeMonstros.dll
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\refint\BatalhaDeMonstros.dll
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\BatalhaDeMonstros.pdb
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\BatalhaDeMonstros.genruntimeconfig.cache
+C:\Users\mwlaf\Desktop\ConsoleGame\BatalhaDeMonstros\obj\Debug\net8.0\ref\BatalhaDeMonstros.dll
